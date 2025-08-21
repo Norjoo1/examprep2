@@ -1,0 +1,14 @@
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/bin/Debug/net6.0/Homies.Data.deps.json
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/bin/Debug/net6.0/Homies.Data.runtimeconfig.json
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/bin/Debug/net6.0/Homies.Data.dll
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/bin/Debug/net6.0/Homies.Data.pdb
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/Homies.Data.csproj.AssemblyReference.cache
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/Homies.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/Homies.Data.AssemblyInfoInputs.cache
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/Homies.Data.AssemblyInfo.cs
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/Homies.Data.csproj.CoreCompileInputs.cache
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/Homies.Data.dll
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/refint/Homies.Data.dll
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/Homies.Data.pdb
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/Homies.Data.genruntimeconfig.cache
+/Users/norjooganbat/Lesson/DevOps/examprep2/Homies.Data/obj/Debug/net6.0/ref/Homies.Data.dll
