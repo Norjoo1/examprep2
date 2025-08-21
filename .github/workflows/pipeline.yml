@@ -26,6 +26,7 @@ jobs:
         run: dotnet build --no-restore
 
       - name: Run tests
+        shell: bash
         run: |
           if [ "${{ github.ref }}" == "refs/heads/develop" ]; then
             dotnet test --filter "Category=Unit"
